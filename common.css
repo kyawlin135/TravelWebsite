@@ -1,0 +1,80 @@
+.background-primary-color {
+  background-color: #7346ee;
+}
+
+.custom-shape-divider-top-1722439921 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1722439921 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 189px;
+}
+
+.custom-shape-divider-top-1722439921 .shape-fill {
+  fill: #7346ee;
+}
+
+.custom-shape-divider-top-1722516162 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1722516162 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 106px;
+}
+
+.custom-shape-divider-top-1722516162 .shape-fill {
+  fill: #ffffff;
+}
+
+.custom-shape-divider-top-1722596172 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1722596172 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 56px;
+}
+
+.custom-shape-divider-top-1722596172 .shape-fill {
+  fill: #7346ee;
+}
+
+.input-btn {
+  background-color: #37188a;
+}
+
+.hidden {
+  opacity: 0.7;
+  transition: opacity ease 0.3s;
+}
+
+.hidden:hover {
+  opacity: 0.85;
+}
+
+.buy-btn:hover {
+  background-color: #8f6cef;
+}
